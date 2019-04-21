@@ -65,6 +65,4 @@ img.med {
 img.large {
   width: 303%;
   height: 303%;
-  display: block;
-  align-items: center;
 }
