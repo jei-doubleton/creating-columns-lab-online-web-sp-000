@@ -65,4 +65,5 @@ img.med {
 img.large {
   width: 303%;
   height: 303%;
+  float: right;
 }
